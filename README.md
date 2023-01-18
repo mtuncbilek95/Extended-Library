@@ -7,7 +7,7 @@ This library has been created to use in graphics programming workshops or extend
 - [X] Types
 
 ## Containers
-- [X] Array
+- [X] Array (Dynamic Array)
 - [ ] String
 
 ## Colors
